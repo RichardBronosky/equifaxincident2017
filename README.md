@@ -1,5 +1,1 @@
-<html>
-	<body>
 It's clear that Equifax knows nothing about security. If they did, they wouldn't be conditioning their <strike>victims</strike>users to go to www.equifaxsecurity2017.com instead of security2017.equifax.com
-	</body>
-</html>
